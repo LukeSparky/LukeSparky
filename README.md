@@ -1,4 +1,5 @@
-### Hi, I'm Lucas Passarella
+<img src="header.png">
+
 #### I'm a full-time Electrician
 <p>Yes your read that right!</p>
 <p>I have 5+ years of development experience including: game development and web development</p>
