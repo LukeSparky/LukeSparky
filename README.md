@@ -4,7 +4,7 @@
 <p>Yes you read that right!</p>
 <p>I have 5+ years of development experience including: game development and web development</p>
 <p>In 2014 I left the world of software to develop other soft skills. I went from managing retail, to teaching yoga, stand-up comedy, and construction.</p>
-<p>Now in 2022 I'm getting taking the rust off and getting myself back into the world of software development. As I start refamiliarizing myself into development I found my experiences in other industries have brought me better perspective as a developer. I'm excited to see where this takes me</p> 
+<p>Now in 2022 I'm taking the rust off and getting myself back into the world of software development. As I start refamiliarizing myself into development I found my experiences in other industries have brought me better perspective as a developer. I'm excited to see where this takes me</p> 
 
 #### Currently Working With
 <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" ><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" ><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
