@@ -1,7 +1,7 @@
 <img src="header.png">
 
 #### I'm a full-time Electrician
-<p>Yes your read that right!</p>
+<p>Yes you read that right!</p>
 <p>I have 5+ years of development experience including: game development and web development</p>
 <p>In 2014 I left the world of software to develop other soft skills. I went from managing retail, to teaching yoga, stand-up comedy, and construction.</p>
 <p>Now in 2022 I'm getting taking the rust off and getting myself back into the world of software development. As I start refamiliarizing myself into development I found my experiences in other industries have brought me better perspective as a developer. I'm excited to see where this takes me</p> 
